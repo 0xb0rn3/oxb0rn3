@@ -1,4 +1,4 @@
-👋 Welcome! I'm Chris (q4n0 / b0urn3) 🌟
+NOT 404 FOUND! 👋 Welcome! I'm Chris (q4n0 / b0urn3) 🌟
 
 🔒 Cybersecurity Enthusiast: I'm passionate about safeguarding systems and exploring the fascinating world of cybersecurity and this is my github repo where i store my (meant for public) projects!
 
