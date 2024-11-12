@@ -1,6 +1,6 @@
 👋 Welcome! I'm Chris (q4n0 / b0urn3) 🌟
 
-🔒 Cybersecurity Enthusiast: I'm passionate about safeguarding systems and exploring the fascinating world of cybersecurity.
+🔒 Cybersecurity Enthusiast: I'm passionate about safeguarding systems and exploring the fascinating world of cybersecurity and this is my github repo where i store my (meant for public) projects!
 
 💻 Tech Lover & Coder: My journey into tech started with a love for coding, and it's grown into a deep interest in penetration testing and ethical hacking. I enjoy experimenting with new technologies and tools, constantly learning and expanding my skills.
 
