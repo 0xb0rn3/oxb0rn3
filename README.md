@@ -1,4 +1,4 @@
-👋 Hi there! I'm Chris (q4n0 / b0urn3) 🌟
+👋 Welcome! I'm Chris (q4n0 / b0urn3) 🌟
 
 🔒 Cybersecurity Enthusiast: I'm passionate about safeguarding systems and exploring the fascinating world of cybersecurity.
 
