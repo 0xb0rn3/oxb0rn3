@@ -18,6 +18,6 @@ Explore my repositories and discover tools built to make a difference—whether 
 
 ## 📬 Let's Connect  
 - **GitHub:** [q4n0](https://github.com/q4n0)  
-- **Instagram:** [@onlybyhive](https://instagram.com/onlybyhive)  
+- **Instagram:** [@theehiv3](https://instagram.com/theehiv3)  
 
 *"Innovation is my default, and challenges fuel my momentum."* 🚀  
