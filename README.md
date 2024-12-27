@@ -1,5 +1,5 @@
 # Welcome to My Digital Playground  
-I'm **b0urn3**, a cybersecurity innovator blending creativity with precision. My work revolves around designing systems that simplify the complex, secure the fragile, and illuminate the hidden. With a penchant for automation and performance, I focus on tools that are scalable, impactful, and—most importantly—fun to use.  
+I'm, a cybersecurity innovator blending creativity with precision. My work revolves around designing systems that simplify the complex, secure the fragile, and illuminate the hidden. With a penchant for automation and performance, I focus on tools that are scalable, impactful, and—most importantly—fun to use.  
 
 ## 🌟 My Approach  
 1. **Purpose-Driven Development:** Every script, every project is designed to solve a problem or enhance an experience.  
