@@ -17,7 +17,7 @@ _"If you can't outthink it, outcode it."_
 Explore my repositories and discover tools built to make a difference—whether you're uncovering vulnerabilities, managing networks, or solving puzzles. 
 
 ## 📬 Let's Connect  
-- **GitHub:** [q4n0](https://github.com/q4n0)  
+- **GitHub:** [q4n0](https://github.com/0xb0rn3)  
 - **Instagram:** [@theehiv3](https://instagram.com/theehiv3)  
 
 *"Innovation is my default, and challenges fuel my momentum."* 🚀  
